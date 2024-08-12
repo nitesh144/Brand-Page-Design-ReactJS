@@ -1,9 +1,11 @@
 # Brand-Page-Design-ReactJS
 
-Overview
+Overview:
+
 This project is a modern and responsive brand page designed using ReactJS. The page is designed to be visually appealing and user-friendly, showcasing a brand's key elements such as its logo, services, and contact information. The design is responsive, ensuring a consistent user experience across different devices and screen sizes.
 
-Features
+Features:
+
 Responsive Design: The layout adapts to various screen sizes, ensuring usability on mobile, tablet, and desktop devices.
 Single Page Application (SPA): Smooth and fast user experience with minimal page reloads.
 Reusable Components: Built with modular and reusable React components for easy maintenance and scalability.
